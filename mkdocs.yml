@@ -1,0 +1,18 @@
+site_name: CairoVolt Electronics Guide
+site_url: https://cairovolt-electronics-guide.readthedocs.io
+site_description: Electronics buying guide for Anker, Soundcore, and Joyroom products in Egypt
+site_author: CairoVolt
+
+nav:
+  - Home: index.md
+  - Power Banks: power-banks.md
+  - Chargers: chargers.md
+  - Cables: cables.md
+  - Audio: audio.md
+
+theme:
+  name: material
+
+markdown_extensions:
+  - toc
+  - admonition
